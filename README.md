@@ -48,7 +48,6 @@ Myguo's architecture is divided into several key components:
 - **Conversational Interface:**  
   A chat and voice-based interface for executing natural language commands.
 
-### Future Phases
 - **Enhanced Analytics:**  
   Advanced, personalized insights based on user portfolio and predictive market data.
   
