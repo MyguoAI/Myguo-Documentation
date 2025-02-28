@@ -9,7 +9,7 @@ Welcome to the Myguo Documentation repository. This repository is dedicated to p
 
 ## Vision
 
-Myguo is built to be the AI research search engine for decentralized finance. Our mission is to simplify the complex world of DeFi by aggregating data from trusted sources and presenting actionable insights through a natural, conversational interface. We aim to empower both newcomers and seasoned investors with the tools they need to make informed decisions.
+Myguo is built to be the AI Agent search engine for decentralized finance. Our mission is to simplify the complex world of DeFi by aggregating data from trusted sources and presenting actionable insights through a natural, conversational interface. We aim to empower both newcomers and seasoned investors with the tools they need to make informed decisions.
 
 ---
 
